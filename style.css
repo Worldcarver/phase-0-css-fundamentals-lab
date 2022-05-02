@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  margin: auto;
+  width: 25%;
+  height: 25%;
+}
+a {
+  margin: auto;
+  width: 25%;
+  height: 25%;
+
+}
+img {
+  text-align: center;
+  width: 900px;
+}
+
+section#featured-property {
+  margin: auto;
+  width: 900px;
+}
+p {
+  margin: auto;
+  width: 800px;
+}
+
+div {
+  float: left;
+  width: 25%;
+  height: 100%;
+  background-color: red;
+  margin: auto; 
+}
